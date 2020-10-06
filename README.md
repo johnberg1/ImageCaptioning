@@ -11,6 +11,15 @@ used in the embedding layer of the decoder. Cross entropy loss is used to evalua
 performance of the network. The expected outcome is to reach a generative model that is as
 close to a human as possible in captioning an unseen image.
 
+**Sample Results**
+
+Here are some of the captions generated for sample images:
+
+![alt text](https://github.com/johnberg1/ImageCaptioning/blob/master/images/sample1.png)
+
+![alt text](https://github.com/johnberg1/ImageCaptioning/blob/master/images/sample2.png)
+
+
 **REFERENCES**
 
 **[1]** He, Kaiming, et al. “Deep Residual Learning for Image Recognition.” 2016 IEEE
